@@ -1,5 +1,5 @@
 # Q2.Write a program to calculate the total cost of items including tax
-# Get user input for the number of items and cost per item
+
 num_items = int(input("Enter the number of items: "))
 cost_per_item = float(input("Enter the cost per item: $"))
 
