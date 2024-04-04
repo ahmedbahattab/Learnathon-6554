@@ -1,8 +1,7 @@
-'''Define a Python class called **`Book`** with the following requirements:
-
-- The class should have attributes **`title`**, **`author`**, and **`published_year`**.
-- Implement a constructor method that initializes these attributes.
-- Implement a method called **`display_info()`** that prints out the book's information in a formatted manner.'''
+#Define a Python class called **`Book`** with the following requirements:
+# The class should have attributes **`title`**, **`author`**, and **`published_year`**.
+# Implement a constructor method that initializes these attributes.
+# Implement a method called **`display_info()`** that prints out the book's information in a formatted manner.
 class Book:
     def __init__(self, title, author, published_year):
         self.title = title
